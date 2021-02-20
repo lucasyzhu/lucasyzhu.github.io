@@ -7,5 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# About me
 
 This is Yizhi Hu's homepage.
