@@ -87,8 +87,8 @@ author:
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=vljoVi0AAAAJ&hl=en"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Yizhi_Hu"
+  email            :  yizhihu1996@stu.hit.edu.cn
+  researchgate     : "https://www.researchgate.net/profile/Yizhi_Hu"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -210,40 +210,40 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  #- scope:
+      #path: ""
+      #type: teaching
+    #values:
+      #layout: single
+      #author_profile: true
+      #share: true
+      #comments: true
   # _publications
   - scope:
       path: ""
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
-      comments: true
+      comments: false
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  #- scope:
+      #path: ""
+      #type: portfolio
+    #values:
+      #layout: single
+      #author_profile: true
+      #share: true
+      #comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+      #path: ""
+      #type: talks
+    #values:
+      #layout: talk
+      #author_profile: true
+      #share: true
 
 # Sass/SCSS
 sass:
